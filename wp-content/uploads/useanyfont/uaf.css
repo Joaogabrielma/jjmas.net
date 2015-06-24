@@ -1,0 +1,31 @@
+			@font-face {
+				font-family: 'Gotham Ultra';
+				font-style: normal;
+				src: url('//jjmas.net/wp-content/uploads/useanyfont/150320072839Gotham-Ultra.eot');
+				src: local('Gotham Ultra'), url('//jjmas.net/wp-content/uploads/useanyfont/150320072839Gotham-Ultra.eot') format('embedded-opentype'), url('//jjmas.net/wp-content/uploads/useanyfont/150320072839Gotham-Ultra.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'Gotham Medium';
+				font-style: normal;
+				src: url('//jjmas.net/wp-content/uploads/useanyfont/150320073433Gotham-Medium.eot');
+				src: local('Gotham Medium'), url('//jjmas.net/wp-content/uploads/useanyfont/150320073433Gotham-Medium.eot') format('embedded-opentype'), url('//jjmas.net/wp-content/uploads/useanyfont/150320073433Gotham-Medium.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'Proxima Nova - Black';
+				font-style: normal;
+				src: url('//jjmas.net/wp-content/uploads/useanyfont/150407051502Proxima-Nova-Black.eot');
+				src: local('Proxima Nova - Black'), url('//jjmas.net/wp-content/uploads/useanyfont/150407051502Proxima-Nova-Black.eot') format('embedded-opentype'), url('//jjmas.net/wp-content/uploads/useanyfont/150407051502Proxima-Nova-Black.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'Proxima Nova - Bold';
+				font-style: normal;
+				src: url('//jjmas.net/wp-content/uploads/useanyfont/150407051521Proxima-Nova-Bold.eot');
+				src: local('Proxima Nova - Bold'), url('//jjmas.net/wp-content/uploads/useanyfont/150407051521Proxima-Nova-Bold.eot') format('embedded-opentype'), url('//jjmas.net/wp-content/uploads/useanyfont/150407051521Proxima-Nova-Bold.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'Proxima Nova - Regular';
+				font-style: normal;
+				src: url('//jjmas.net/wp-content/uploads/useanyfont/150407051556Proxima-Nova-Regular.eot');
+				src: local('Proxima Nova - Regular'), url('//jjmas.net/wp-content/uploads/useanyfont/150407051556Proxima-Nova-Regular.eot') format('embedded-opentype'), url('//jjmas.net/wp-content/uploads/useanyfont/150407051556Proxima-Nova-Regular.woff') format('woff');
+			}
+		

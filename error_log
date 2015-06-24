@@ -1,0 +1,7 @@
+[31-Mar-2015 22:53:39] PHP Fatal error:  Cannot use object of type WP_Error as array in /home2/mrjjmas/public_html/wp-content/plugins/mojo-marketplace-hg/inc/notifications.php on line 22
+[31-Mar-2015 22:53:54] PHP Fatal error:  Cannot use object of type WP_Error as array in /home2/mrjjmas/public_html/wp-content/plugins/mojo-marketplace-hg/inc/notifications.php on line 22
+[31-Mar-2015 23:14:26] PHP Parse error:  syntax error, unexpected '<' in /home2/mrjjmas/public_html/wp-content/themes/salient/blank-page.php on line 6
+[31-Mar-2015 23:14:58] PHP Parse error:  syntax error, unexpected '<' in /home2/mrjjmas/public_html/wp-content/themes/salient/blank-page.php on line 6
+[31-Mar-2015 23:15:01] PHP Parse error:  syntax error, unexpected '<' in /home2/mrjjmas/public_html/wp-content/themes/salient/blank-page.php on line 6
+[01-Apr-2015 02:21:52] PHP Fatal error:  Cannot use object of type WP_Error as array in /home2/mrjjmas/public_html/wp-content/plugins/mojo-marketplace-hg/inc/notifications.php on line 22
+[03-Apr-2015 19:44:13] PHP Fatal error:  print_r() [<a href='ref.outcontrol'>ref.outcontrol</a>]: Cannot use output buffering in output buffering display handlers in /home2/mrjjmas/public_html/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 253
